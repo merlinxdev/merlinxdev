@@ -50,7 +50,7 @@ Hello, my name is Mr. Kiattipoom Chaesomchat. I am a Back-end Developer who is p
   <img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/> &nbsp;
 </div>
 
-### Stats
+### Stats 🔥
 <div align="center" dir="auto">
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=merlinxdev&show_icons=true&hide_border=false&theme=midnight-purple"/>
@@ -61,5 +61,9 @@ Hello, my name is Mr. Kiattipoom Chaesomchat. I am a Back-end Developer who is p
 </div>
 
 <div>
-   Waiting..
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merlinxdev/merlinxdev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merlinxdev/merlinxdev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </div>
