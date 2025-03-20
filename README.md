@@ -1,5 +1,4 @@
-## Hi there 👋
-  <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -14,10 +13,9 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 Hello, my name is Mr. Kiattipoom Chaesomchat. I am a Back-end Developer who is passionate about programming. I am highly motivated in my work and always eager to tackle challenging tasks. I work well in teams and have strong communication skills within a team setting. Additionally, I enjoy improving myself and adapting easily to others.
-### ⭐ Language and tools :
-<hr>
+## ⭐ Language and tools :
 
 ### FrontEnd Tech Stack
 <img src="https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> &nbsp;
