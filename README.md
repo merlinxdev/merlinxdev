@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/merlinz.xd/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&label=merlin.xd&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discord.gg/NXhQ7VPSvq">
+    <img src="https://img.shields.io/badge/merlin.xd-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
